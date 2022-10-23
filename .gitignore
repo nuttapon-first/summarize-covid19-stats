@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,3 +14,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+=======
+.vscode/
+local.env
+>>>>>>> f86ca0cd6f9c95fc38b91bfad5fc8884b1353fb4
