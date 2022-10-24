@@ -52,7 +52,7 @@ $ docker run --rm -p 8899:8899 --env-file ./local.env --name summarize-covid19-s
 | ------ | -------------- | ---------------------- |
 | GET    | /covid/summary | get covid summary data |
 
-#### Reponse
+#### Response
 
 ##### Success
 
